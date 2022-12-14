@@ -1,0 +1,13 @@
+
+sudo apt install git - to install git
+
+git --version - to check version
+
+git config --global user.name "YourNickname"
+git config --global user.email "youremail"
+
+git config --list - to check (hastroiki)
+
+ssh-keygen - to generate ssh key 
+
+cat ~/.ssh/id_rsa.pub - to take ssh key 

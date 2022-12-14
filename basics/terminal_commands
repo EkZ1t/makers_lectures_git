@@ -1,0 +1,44 @@
+ctrl + alt + t - open terminal
+
+ls - to see directories intences 
+
+ls -a - to see hiden files and direcrories 
+
+mkdir - to create directories 
+
+cd - to change your current directorie 
+
+pwd - to see the absolute way to your current directorie 
+
+"." - link to your current directorie 
+
+".." - lint to one directorie up
+
+"~" - link to home directorie 
+
+absolute way - the way that stars from home directorie 
+
+
+mv (way_to_file way_to_dir) - to move file or directory into another file/dir
+
+mv (way_to_file_dir new_name) - to rename file/dir
+
+echo (some_text) - to output text in terminal 
+
+echo (appended_text) >> same_file - to put text into the existing file 
+
+rm - to remove files 
+
+rmdir - to remove directories 
+
+rm -r - to remove all the intences with the directorie itself 
+
+rm -f - to remove wirh force 
+
+rm -rf - -r + -f effects 
+
+apt - to install data
+
+snap install - instal right from the market 
+
+
