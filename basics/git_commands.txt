@@ -11,3 +11,15 @@ git config --list - to check (hastroiki)
 ssh-keygen - to generate ssh key 
 
 cat ~/.ssh/id_rsa.pub - to take ssh key 
+
+git init - to initiate current dir into git-repository 
+
+git add (file_name / . ) - otslejivat izmenenia ukazannih / vseh failov 
+
+git commit -m "message for commit" - sozdanie versii koda s soobsheniem 
+
+git remote add <name_of_remote> <ssh_key> - sviazivanie localnogo repozitoria c udalennim 
+
+git push <name_of_remote> <branch_name> - otperavka versii na github
+
+
